@@ -1,6 +1,6 @@
 # AAD-Repo
 
-This repository contains the program we made for Advanced Analysis and Design. It is a restaurants' fridge database management system, with the database hosted on Azure and two applications available - desktop and web. 
+This repository contains a restaurants' fridge database management system, with the database hosted on Azure and two applications available - desktop and web. 
 
 Desktop Application
 - This is for the chefs and head chefs.
